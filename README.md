@@ -1,8 +1,3 @@
-<img src="https://github.com/user-attachments/assets/a295858c-d5c3-43db-956e-e3c84eec3eb3" width="70%">
-
--現状は、バンブーラボA1 miniによる試作品です。(パーツを2つに分けて出力)すでに一体型ケースをJLCに発注済み
-
-<img src="https://github.com/user-attachments/assets/640ee991-6858-4558-9ee7-aec0bdc4426a" width="70%">
 
 # kgrid40
 
